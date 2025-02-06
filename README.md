@@ -1,6 +1,6 @@
 # Netflix-Data-Analysis
 
-![Inetflix](./datasets/netfliximg.png)
+![Inetflix](./Required_DataSets/netfliximg.png)
 
 ## Overview
 Explore Netflix's content library through data analysis using Python and libraries such as Pandas, Matplotlib, and Seaborn.
@@ -34,11 +34,11 @@ The dataset contains details about Netflix movies and TV shows, including 'title
 some of insights or key findings for the questions mentioned above. Include relevant graphs and visualizations.
 - **When is the best time to release content on Netflix?**
 ### Ideal Release Months
-![Inetflix](./datasets/month.png)
+![Inetflix](./Required_DataSets/month.png)
 
 **Which countries are the major contributors to Netflix's content?**
 ### Content Producers
-![Inetflix](./datasets/country_wise.jpg)
+![Inetflix](./Required_DataSets/country_wise.jpg)
 
 ## Code Structure
 - Data loading and preprocessing
